@@ -1,9 +1,7 @@
+var express=require('express')
+var app=express()
+app.get('/a',(req,res)=>res.send("myfirst response"))
 
-function f1(x){
+app.get(('/',(req,res)=>res.send("error 404"))
 
-
-
-    console.log(x);
-}
-
-f1(12);
+app.listen(3000)
