@@ -43,7 +43,7 @@ for(let i=0;i<5;i++)
 
 console.log("done")
 
-/*
+
 newFunction();
 function newFunction() {
     const generatePromise = (val1, n) => new Promise(resolve);
@@ -51,7 +51,7 @@ function newFunction() {
     }, timeout);
     const generatePromiseHOF = (bhadak);
 }
-*/
+
 
 
 
