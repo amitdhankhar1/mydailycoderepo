@@ -1,0 +1,25 @@
+#d1{
+
+height: 200px;
+width: 200px;
+background-color: cyan;
+position: absolute;
+margin-left: 150px;
+}
+#d2{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position:absolute;
+    margin-left: 800px;
+
+}
+#d3{
+
+    height: 0px;
+    width: 0px;
+    background-color: cyan;
+    position: relative;
+    margin-top: 250px;
+    margin-left: 550px;
+    }
