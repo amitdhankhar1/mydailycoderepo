@@ -9,18 +9,14 @@ for(i=1;i<=n;i++){
 for(j=n-1;j>=i;j--)
 {
 
-    document.write("#");
+    console.log(" ");
 
 }
 for(k=1;k<=i;k++){
-document.write("* ");
+console.log("* ");
 }
-document.write('<br>')
+console.log("\n");
 }
 
 
 
-
-</script>
-
-</html>
